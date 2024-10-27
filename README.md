@@ -5,9 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Javier+Bermejo+..&hearts;++;Autodidacta+CTO+CIO+Developer,;Estudiante+de+las+TIC,;Programador+Python+IA,;Avisa+si+te+puedo+ayudar+en+algo..<3"></a>
 </p>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **SOBRE MI**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## **SOBRE MI**
 
 <br>
 
